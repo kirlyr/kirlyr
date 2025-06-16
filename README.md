@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Irfan
+## Hi there 👋 I'm Atsal
 
 I'm a 6th-semester Informatics Engineering student at Gunadarma University, passionate about blending design and technology. I love turning ideas into visual and functional things—whether it’s through design or writing code.
 
