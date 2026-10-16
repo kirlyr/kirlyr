@@ -1,35 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="738" height="860" viewBox="0 0 738 860" role="img" aria-label="Animated replay of the last Chess.com game by kirlur (DEMO)">
-<title>Last Chess.com game — Demo White vs Demo Black</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="738" height="860" viewBox="0 0 738 860" role="img" aria-label="Animated replay of the last Chess.com game by kirlur">
+<title>Last Chess.com game — kirlur vs essyxx</title>
 <desc>Animated move-by-move chess replay generated from a public Chess.com PGN. Animation loops automatically.</desc>
 <defs>
 <style><![CDATA[
 .frame{opacity:0}.frame-0{opacity:1}
-@keyframes scene-0{0%{opacity:1}15.384615%{opacity:0}100%{opacity:0}}
-.frame-0{animation:scene-0 9.75s steps(1,end) infinite}
-@keyframes scene-1{0%{opacity:0}15.384615%{opacity:1}27.179487%{opacity:0}100%{opacity:0}}
-.frame-1{animation:scene-1 9.75s steps(1,end) infinite}
-@keyframes slide-1{0%,15.384615%{transform:translate(var(--dx),var(--dy))}20%,100%{transform:translate(0,0)}}
-.moving-1{animation:slide-1 9.75s linear infinite}
-@keyframes scene-2{0%{opacity:0}27.179487%{opacity:1}38.974359%{opacity:0}100%{opacity:0}}
-.frame-2{animation:scene-2 9.75s steps(1,end) infinite}
-@keyframes slide-2{0%,27.179487%{transform:translate(var(--dx),var(--dy))}31.794872%,100%{transform:translate(0,0)}}
-.moving-2{animation:slide-2 9.75s linear infinite}
-@keyframes scene-3{0%{opacity:0}38.974359%{opacity:1}50.769231%{opacity:0}100%{opacity:0}}
-.frame-3{animation:scene-3 9.75s steps(1,end) infinite}
-@keyframes slide-3{0%,38.974359%{transform:translate(var(--dx),var(--dy))}43.589744%,100%{transform:translate(0,0)}}
-.moving-3{animation:slide-3 9.75s linear infinite}
-@keyframes scene-4{0%{opacity:0}50.769231%{opacity:1}62.564103%{opacity:0}100%{opacity:0}}
-.frame-4{animation:scene-4 9.75s steps(1,end) infinite}
-@keyframes slide-4{0%,50.769231%{transform:translate(var(--dx),var(--dy))}55.384615%,100%{transform:translate(0,0)}}
-.moving-4{animation:slide-4 9.75s linear infinite}
-@keyframes scene-5{0%{opacity:0}62.564103%{opacity:1}74.358974%{opacity:0}100%{opacity:0}}
-.frame-5{animation:scene-5 9.75s steps(1,end) infinite}
-@keyframes slide-5{0%,62.564103%{transform:translate(var(--dx),var(--dy))}67.179487%,100%{transform:translate(0,0)}}
-.moving-5{animation:slide-5 9.75s linear infinite}
-@keyframes scene-6{0%{opacity:0}74.358974%{opacity:1}100%{opacity:0}100%{opacity:0}}
-.frame-6{animation:scene-6 9.75s steps(1,end) infinite}
-@keyframes slide-6{0%,74.358974%{transform:translate(var(--dx),var(--dy))}78.974359%,100%{transform:translate(0,0)}}
-.moving-6{animation:slide-6 9.75s linear infinite}
+@keyframes scene-0{0%{opacity:1}6.696429%{opacity:0}100%{opacity:0}}
+.frame-0{animation:scene-0 22.40s steps(1,end) infinite}
+@keyframes scene-1{0%{opacity:0}6.696429%{opacity:1}11.830357%{opacity:0}100%{opacity:0}}
+.frame-1{animation:scene-1 22.40s steps(1,end) infinite}
+@keyframes slide-1{0%,6.696429%{transform:translate(var(--dx),var(--dy))}8.705357%,100%{transform:translate(0,0)}}
+.moving-1{animation:slide-1 22.40s linear infinite}
+@keyframes scene-2{0%{opacity:0}11.830357%{opacity:1}16.964286%{opacity:0}100%{opacity:0}}
+.frame-2{animation:scene-2 22.40s steps(1,end) infinite}
+@keyframes slide-2{0%,11.830357%{transform:translate(var(--dx),var(--dy))}13.839286%,100%{transform:translate(0,0)}}
+.moving-2{animation:slide-2 22.40s linear infinite}
+@keyframes scene-3{0%{opacity:0}16.964286%{opacity:1}22.098214%{opacity:0}100%{opacity:0}}
+.frame-3{animation:scene-3 22.40s steps(1,end) infinite}
+@keyframes slide-3{0%,16.964286%{transform:translate(var(--dx),var(--dy))}18.973214%,100%{transform:translate(0,0)}}
+.moving-3{animation:slide-3 22.40s linear infinite}
+@keyframes scene-4{0%{opacity:0}22.098214%{opacity:1}27.232143%{opacity:0}100%{opacity:0}}
+.frame-4{animation:scene-4 22.40s steps(1,end) infinite}
+@keyframes slide-4{0%,22.098214%{transform:translate(var(--dx),var(--dy))}24.107143%,100%{transform:translate(0,0)}}
+.moving-4{animation:slide-4 22.40s linear infinite}
+@keyframes scene-5{0%{opacity:0}27.232143%{opacity:1}32.366071%{opacity:0}100%{opacity:0}}
+.frame-5{animation:scene-5 22.40s steps(1,end) infinite}
+@keyframes slide-5{0%,27.232143%{transform:translate(var(--dx),var(--dy))}29.241071%,100%{transform:translate(0,0)}}
+.moving-5{animation:slide-5 22.40s linear infinite}
+@keyframes scene-6{0%{opacity:0}32.366071%{opacity:1}37.5%{opacity:0}100%{opacity:0}}
+.frame-6{animation:scene-6 22.40s steps(1,end) infinite}
+@keyframes slide-6{0%,32.366071%{transform:translate(var(--dx),var(--dy))}34.375%,100%{transform:translate(0,0)}}
+.moving-6{animation:slide-6 22.40s linear infinite}
+@keyframes scene-7{0%{opacity:0}37.5%{opacity:1}42.633929%{opacity:0}100%{opacity:0}}
+.frame-7{animation:scene-7 22.40s steps(1,end) infinite}
+@keyframes slide-7{0%,37.5%{transform:translate(var(--dx),var(--dy))}39.508929%,100%{transform:translate(0,0)}}
+.moving-7{animation:slide-7 22.40s linear infinite}
+@keyframes scene-8{0%{opacity:0}42.633929%{opacity:1}47.767857%{opacity:0}100%{opacity:0}}
+.frame-8{animation:scene-8 22.40s steps(1,end) infinite}
+@keyframes slide-8{0%,42.633929%{transform:translate(var(--dx),var(--dy))}44.642857%,100%{transform:translate(0,0)}}
+.moving-8{animation:slide-8 22.40s linear infinite}
+@keyframes scene-9{0%{opacity:0}47.767857%{opacity:1}52.901786%{opacity:0}100%{opacity:0}}
+.frame-9{animation:scene-9 22.40s steps(1,end) infinite}
+@keyframes slide-9{0%,47.767857%{transform:translate(var(--dx),var(--dy))}49.776786%,100%{transform:translate(0,0)}}
+.moving-9{animation:slide-9 22.40s linear infinite}
+@keyframes scene-10{0%{opacity:0}52.901786%{opacity:1}58.035714%{opacity:0}100%{opacity:0}}
+.frame-10{animation:scene-10 22.40s steps(1,end) infinite}
+@keyframes slide-10{0%,52.901786%{transform:translate(var(--dx),var(--dy))}54.910714%,100%{transform:translate(0,0)}}
+.moving-10{animation:slide-10 22.40s linear infinite}
+@keyframes scene-11{0%{opacity:0}58.035714%{opacity:1}63.169643%{opacity:0}100%{opacity:0}}
+.frame-11{animation:scene-11 22.40s steps(1,end) infinite}
+@keyframes slide-11{0%,58.035714%{transform:translate(var(--dx),var(--dy))}60.044643%,100%{transform:translate(0,0)}}
+.moving-11{animation:slide-11 22.40s linear infinite}
+@keyframes scene-12{0%{opacity:0}63.169643%{opacity:1}68.303571%{opacity:0}100%{opacity:0}}
+.frame-12{animation:scene-12 22.40s steps(1,end) infinite}
+@keyframes slide-12{0%,63.169643%{transform:translate(var(--dx),var(--dy))}65.178571%,100%{transform:translate(0,0)}}
+.moving-12{animation:slide-12 22.40s linear infinite}
+@keyframes scene-13{0%{opacity:0}68.303571%{opacity:1}73.4375%{opacity:0}100%{opacity:0}}
+.frame-13{animation:scene-13 22.40s steps(1,end) infinite}
+@keyframes slide-13{0%,68.303571%{transform:translate(var(--dx),var(--dy))}70.3125%,100%{transform:translate(0,0)}}
+.moving-13{animation:slide-13 22.40s linear infinite}
+@keyframes scene-14{0%{opacity:0}73.4375%{opacity:1}78.571429%{opacity:0}100%{opacity:0}}
+.frame-14{animation:scene-14 22.40s steps(1,end) infinite}
+@keyframes slide-14{0%,73.4375%{transform:translate(var(--dx),var(--dy))}75.446429%,100%{transform:translate(0,0)}}
+.moving-14{animation:slide-14 22.40s linear infinite}
+@keyframes scene-15{0%{opacity:0}78.571429%{opacity:1}83.705357%{opacity:0}100%{opacity:0}}
+.frame-15{animation:scene-15 22.40s steps(1,end) infinite}
+@keyframes slide-15{0%,78.571429%{transform:translate(var(--dx),var(--dy))}80.580357%,100%{transform:translate(0,0)}}
+.moving-15{animation:slide-15 22.40s linear infinite}
+@keyframes scene-16{0%{opacity:0}83.705357%{opacity:1}88.839286%{opacity:0}100%{opacity:0}}
+.frame-16{animation:scene-16 22.40s steps(1,end) infinite}
+@keyframes slide-16{0%,83.705357%{transform:translate(var(--dx),var(--dy))}85.714286%,100%{transform:translate(0,0)}}
+.moving-16{animation:slide-16 22.40s linear infinite}
+@keyframes scene-17{0%{opacity:0}88.839286%{opacity:1}100%{opacity:0}100%{opacity:0}}
+.frame-17{animation:scene-17 22.40s steps(1,end) infinite}
+@keyframes slide-17{0%,88.839286%{transform:translate(var(--dx),var(--dy))}90.848214%,100%{transform:translate(0,0)}}
+.moving-17{animation:slide-17 22.40s linear infinite}
 ]]></style>
 <g id="piece-K"><text text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans,Segoe UI Symbol,Arial Unicode MS,sans-serif" font-size="61" font-weight="bold" fill="#ffffff" stroke="#30363d" stroke-width="1.5" paint-order="stroke">♔</text></g>
 <g id="piece-Q"><text text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans,Segoe UI Symbol,Arial Unicode MS,sans-serif" font-size="61" font-weight="bold" fill="#ffffff" stroke="#30363d" stroke-width="1.5" paint-order="stroke">♕</text></g>
@@ -47,9 +91,9 @@
 <rect width="738" height="860" rx="22" fill="#0d1117"/>
 <rect x="23" y="22" width="692" height="815" rx="17" fill="#161b22" stroke="#30363d"/>
 <text x="65" y="74" fill="#f0f6fc" font-size="28" font-weight="bold" font-family="Arial,sans-serif">LAST GAME REPLAY</text>
-<text x="65" y="107" fill="#8b949e" font-size="17" font-family="Arial,sans-serif">Demo White  vs  Demo Black</text>
-<rect x="570" y="51" width="100" height="38" rx="18" fill="#8b949e" opacity="0.17"/>
-<text x="620" y="77" text-anchor="middle" fill="#8b949e" font-size="18" font-weight="bold" font-family="Arial,sans-serif">GAME</text>
+<text x="65" y="107" fill="#8b949e" font-size="17" font-family="Arial,sans-serif">kirlur  vs  essyxx</text>
+<rect x="570" y="51" width="100" height="38" rx="18" fill="#3fb950" opacity="0.17"/>
+<text x="620" y="77" text-anchor="middle" fill="#3fb950" font-size="18" font-weight="bold" font-family="Arial,sans-serif">WIN</text>
 <rect x="65" y="138" width="608" height="608" rx="3" fill="#8b949e"/>
 <rect x="65" y="138" width="76" height="76" fill="#7796aa"/>
 <rect x="141" y="138" width="76" height="76" fill="#253546"/>
@@ -165,11 +209,11 @@
 <use href="#piece-p" x="635" y="252"/>
 <use href="#piece-r" x="635" y="176"/>
 <text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">Initial position</text>
-<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">0/6 ply</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">0/17 ply</text>
 </g>
 <g class="frame frame-1">
-<rect x="369" y="594" width="76" height="76" fill="#e3b341" opacity="0.30"/>
-<rect x="369" y="442" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="293" y="594" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="293" y="518" width="76" height="76" fill="#e3b341" opacity="0.30"/>
 <use href="#piece-R" x="103" y="708"/>
 <use href="#piece-P" x="103" y="632"/>
 <use href="#piece-p" x="103" y="252"/>
@@ -183,10 +227,10 @@
 <use href="#piece-p" x="255" y="252"/>
 <use href="#piece-b" x="255" y="176"/>
 <use href="#piece-Q" x="331" y="708"/>
-<use href="#piece-P" x="331" y="632"/>
 <use href="#piece-p" x="331" y="252"/>
 <use href="#piece-q" x="331" y="176"/>
 <use href="#piece-K" x="407" y="708"/>
+<use href="#piece-P" x="407" y="632"/>
 <use href="#piece-p" x="407" y="252"/>
 <use href="#piece-k" x="407" y="176"/>
 <use href="#piece-B" x="483" y="708"/>
@@ -201,11 +245,11 @@
 <use href="#piece-P" x="635" y="632"/>
 <use href="#piece-p" x="635" y="252"/>
 <use href="#piece-r" x="635" y="176"/>
-<g class="moving moving-1" style="--dx:0px;--dy:152px">
-<use href="#piece-P" x="407" y="480"/>
+<g class="moving moving-1" style="--dx:0px;--dy:76px">
+<use href="#piece-P" x="331" y="556"/>
 </g>
-<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">1. e4</text>
-<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">1/6 ply</text>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">1. d3</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">1/17 ply</text>
 </g>
 <g class="frame frame-2">
 <rect x="369" y="214" width="76" height="76" fill="#e3b341" opacity="0.30"/>
@@ -223,11 +267,11 @@
 <use href="#piece-p" x="255" y="252"/>
 <use href="#piece-b" x="255" y="176"/>
 <use href="#piece-Q" x="331" y="708"/>
-<use href="#piece-P" x="331" y="632"/>
+<use href="#piece-P" x="331" y="556"/>
 <use href="#piece-p" x="331" y="252"/>
 <use href="#piece-q" x="331" y="176"/>
 <use href="#piece-K" x="407" y="708"/>
-<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-P" x="407" y="632"/>
 <use href="#piece-k" x="407" y="176"/>
 <use href="#piece-B" x="483" y="708"/>
 <use href="#piece-P" x="483" y="632"/>
@@ -245,11 +289,11 @@
 <use href="#piece-p" x="407" y="404"/>
 </g>
 <text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">1... e5</text>
-<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">2/6 ply</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">2/17 ply</text>
 </g>
 <g class="frame frame-3">
-<rect x="521" y="670" width="76" height="76" fill="#e3b341" opacity="0.30"/>
-<rect x="445" y="518" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="369" y="594" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="369" y="442" width="76" height="76" fill="#e3b341" opacity="0.30"/>
 <use href="#piece-R" x="103" y="708"/>
 <use href="#piece-P" x="103" y="632"/>
 <use href="#piece-p" x="103" y="252"/>
@@ -263,17 +307,17 @@
 <use href="#piece-p" x="255" y="252"/>
 <use href="#piece-b" x="255" y="176"/>
 <use href="#piece-Q" x="331" y="708"/>
-<use href="#piece-P" x="331" y="632"/>
+<use href="#piece-P" x="331" y="556"/>
 <use href="#piece-p" x="331" y="252"/>
 <use href="#piece-q" x="331" y="176"/>
 <use href="#piece-K" x="407" y="708"/>
-<use href="#piece-P" x="407" y="480"/>
 <use href="#piece-p" x="407" y="404"/>
 <use href="#piece-k" x="407" y="176"/>
 <use href="#piece-B" x="483" y="708"/>
 <use href="#piece-P" x="483" y="632"/>
 <use href="#piece-p" x="483" y="252"/>
 <use href="#piece-b" x="483" y="176"/>
+<use href="#piece-N" x="559" y="708"/>
 <use href="#piece-P" x="559" y="632"/>
 <use href="#piece-p" x="559" y="252"/>
 <use href="#piece-n" x="559" y="176"/>
@@ -281,11 +325,11 @@
 <use href="#piece-P" x="635" y="632"/>
 <use href="#piece-p" x="635" y="252"/>
 <use href="#piece-r" x="635" y="176"/>
-<g class="moving moving-3" style="--dx:76px;--dy:152px">
-<use href="#piece-N" x="483" y="556"/>
+<g class="moving moving-3" style="--dx:0px;--dy:152px">
+<use href="#piece-P" x="407" y="480"/>
 </g>
-<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">2. Nf3</text>
-<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">3/6 ply</text>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">2. e4</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">3/17 ply</text>
 </g>
 <g class="frame frame-4">
 <rect x="141" y="138" width="76" height="76" fill="#e3b341" opacity="0.30"/>
@@ -302,9 +346,169 @@
 <use href="#piece-p" x="255" y="252"/>
 <use href="#piece-b" x="255" y="176"/>
 <use href="#piece-Q" x="331" y="708"/>
-<use href="#piece-P" x="331" y="632"/>
+<use href="#piece-P" x="331" y="556"/>
 <use href="#piece-p" x="331" y="252"/>
 <use href="#piece-q" x="331" y="176"/>
+<use href="#piece-K" x="407" y="708"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-p" x="407" y="404"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-B" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-N" x="559" y="708"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-R" x="635" y="708"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-4" style="--dx:-76px;--dy:-152px">
+<use href="#piece-n" x="255" y="328"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">2... Nc6</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">4/17 ply</text>
+</g>
+<g class="frame frame-5">
+<rect x="141" y="670" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="293" y="594" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-n" x="255" y="328"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-P" x="331" y="556"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-q" x="331" y="176"/>
+<use href="#piece-K" x="407" y="708"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-p" x="407" y="404"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-B" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-N" x="559" y="708"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-R" x="635" y="708"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-5" style="--dx:-152px;--dy:76px">
+<use href="#piece-N" x="331" y="632"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">3. Nd2</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">5/17 ply</text>
+</g>
+<g class="frame frame-6">
+<rect x="293" y="138" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="369" y="214" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-n" x="255" y="328"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-N" x="331" y="632"/>
+<use href="#piece-P" x="331" y="556"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-K" x="407" y="708"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-p" x="407" y="404"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-B" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-N" x="559" y="708"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-R" x="635" y="708"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-6" style="--dx:-76px;--dy:-76px">
+<use href="#piece-q" x="407" y="252"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">3... Qe7</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">6/17 ply</text>
+</g>
+<g class="frame frame-7">
+<rect x="521" y="670" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="445" y="518" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-n" x="255" y="328"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-N" x="331" y="632"/>
+<use href="#piece-P" x="331" y="556"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-K" x="407" y="708"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-p" x="407" y="404"/>
+<use href="#piece-q" x="407" y="252"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-B" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-R" x="635" y="708"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-7" style="--dx:76px;--dy:152px">
+<use href="#piece-N" x="483" y="556"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">4. Ngf3</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">7/17 ply</text>
+</g>
+<g class="frame frame-8">
+<rect x="369" y="214" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="445" y="290" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-n" x="255" y="328"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-N" x="331" y="632"/>
+<use href="#piece-P" x="331" y="556"/>
+<use href="#piece-p" x="331" y="252"/>
 <use href="#piece-K" x="407" y="708"/>
 <use href="#piece-P" x="407" y="480"/>
 <use href="#piece-p" x="407" y="404"/>
@@ -321,20 +525,19 @@
 <use href="#piece-P" x="635" y="632"/>
 <use href="#piece-p" x="635" y="252"/>
 <use href="#piece-r" x="635" y="176"/>
-<g class="moving moving-4" style="--dx:-76px;--dy:-152px">
-<use href="#piece-n" x="255" y="328"/>
+<g class="moving moving-8" style="--dx:-76px;--dy:-76px">
+<use href="#piece-q" x="483" y="328"/>
 </g>
-<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">2... Nc6</text>
-<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">4/6 ply</text>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">4... Qf6</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">8/17 ply</text>
 </g>
-<g class="frame frame-5">
+<g class="frame frame-9">
 <rect x="445" y="670" width="76" height="76" fill="#e3b341" opacity="0.30"/>
-<rect x="217" y="442" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="369" y="594" width="76" height="76" fill="#e3b341" opacity="0.30"/>
 <use href="#piece-R" x="103" y="708"/>
 <use href="#piece-P" x="103" y="632"/>
 <use href="#piece-p" x="103" y="252"/>
 <use href="#piece-r" x="103" y="176"/>
-<use href="#piece-N" x="179" y="708"/>
 <use href="#piece-P" x="179" y="632"/>
 <use href="#piece-p" x="179" y="252"/>
 <use href="#piece-B" x="255" y="708"/>
@@ -343,15 +546,16 @@
 <use href="#piece-p" x="255" y="252"/>
 <use href="#piece-b" x="255" y="176"/>
 <use href="#piece-Q" x="331" y="708"/>
-<use href="#piece-P" x="331" y="632"/>
+<use href="#piece-N" x="331" y="632"/>
+<use href="#piece-P" x="331" y="556"/>
 <use href="#piece-p" x="331" y="252"/>
-<use href="#piece-q" x="331" y="176"/>
 <use href="#piece-K" x="407" y="708"/>
 <use href="#piece-P" x="407" y="480"/>
 <use href="#piece-p" x="407" y="404"/>
 <use href="#piece-k" x="407" y="176"/>
 <use href="#piece-P" x="483" y="632"/>
 <use href="#piece-N" x="483" y="556"/>
+<use href="#piece-q" x="483" y="328"/>
 <use href="#piece-p" x="483" y="252"/>
 <use href="#piece-b" x="483" y="176"/>
 <use href="#piece-P" x="559" y="632"/>
@@ -361,51 +565,314 @@
 <use href="#piece-P" x="635" y="632"/>
 <use href="#piece-p" x="635" y="252"/>
 <use href="#piece-r" x="635" y="176"/>
-<g class="moving moving-5" style="--dx:228px;--dy:228px">
-<use href="#piece-B" x="255" y="480"/>
+<g class="moving moving-9" style="--dx:76px;--dy:76px">
+<use href="#piece-B" x="407" y="632"/>
 </g>
-<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">3. Bc4</text>
-<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">5/6 ply</text>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">5. Be2</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">9/17 ply</text>
 </g>
-<g class="frame frame-6">
-<rect x="521" y="138" width="76" height="76" fill="#e3b341" opacity="0.30"/>
-<rect x="445" y="290" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<g class="frame frame-10">
+<rect x="217" y="290" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="293" y="442" width="76" height="76" fill="#e3b341" opacity="0.30"/>
 <use href="#piece-R" x="103" y="708"/>
 <use href="#piece-P" x="103" y="632"/>
 <use href="#piece-p" x="103" y="252"/>
 <use href="#piece-r" x="103" y="176"/>
-<use href="#piece-N" x="179" y="708"/>
 <use href="#piece-P" x="179" y="632"/>
 <use href="#piece-p" x="179" y="252"/>
 <use href="#piece-B" x="255" y="708"/>
 <use href="#piece-P" x="255" y="632"/>
-<use href="#piece-B" x="255" y="480"/>
-<use href="#piece-n" x="255" y="328"/>
 <use href="#piece-p" x="255" y="252"/>
 <use href="#piece-b" x="255" y="176"/>
 <use href="#piece-Q" x="331" y="708"/>
-<use href="#piece-P" x="331" y="632"/>
+<use href="#piece-N" x="331" y="632"/>
+<use href="#piece-P" x="331" y="556"/>
 <use href="#piece-p" x="331" y="252"/>
-<use href="#piece-q" x="331" y="176"/>
 <use href="#piece-K" x="407" y="708"/>
+<use href="#piece-B" x="407" y="632"/>
 <use href="#piece-P" x="407" y="480"/>
 <use href="#piece-p" x="407" y="404"/>
 <use href="#piece-k" x="407" y="176"/>
 <use href="#piece-P" x="483" y="632"/>
 <use href="#piece-N" x="483" y="556"/>
+<use href="#piece-q" x="483" y="328"/>
 <use href="#piece-p" x="483" y="252"/>
 <use href="#piece-b" x="483" y="176"/>
 <use href="#piece-P" x="559" y="632"/>
 <use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
 <use href="#piece-R" x="635" y="708"/>
 <use href="#piece-P" x="635" y="632"/>
 <use href="#piece-p" x="635" y="252"/>
 <use href="#piece-r" x="635" y="176"/>
-<g class="moving moving-6" style="--dx:76px;--dy:-152px">
-<use href="#piece-n" x="483" y="328"/>
+<g class="moving moving-10" style="--dx:-76px;--dy:-152px">
+<use href="#piece-n" x="331" y="480"/>
 </g>
-<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">3... Nf6</text>
-<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">6/6 ply</text>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">5... Nd4</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">10/17 ply</text>
 </g>
-<text x="65" y="784" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">Chess.com · DEMO ONLY ·  · replay loops</text>
+<g class="frame frame-11">
+<rect x="369" y="670" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="521" y="670" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-N" x="331" y="632"/>
+<use href="#piece-P" x="331" y="556"/>
+<use href="#piece-n" x="331" y="480"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-B" x="407" y="632"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-p" x="407" y="404"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-R" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-N" x="483" y="556"/>
+<use href="#piece-q" x="483" y="328"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-11" style="--dx:-152px;--dy:0px">
+<use href="#piece-K" x="559" y="708"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">6. O-O</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">11/17 ply</text>
+</g>
+<g class="frame frame-12">
+<rect x="293" y="442" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="445" y="518" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-N" x="331" y="632"/>
+<use href="#piece-P" x="331" y="556"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-B" x="407" y="632"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-p" x="407" y="404"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-R" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-q" x="483" y="328"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-K" x="559" y="708"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-12" style="--dx:-152px;--dy:-76px">
+<use href="#piece-n" x="483" y="556"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">6... Nxf3+</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">12/17 ply</text>
+</g>
+<g class="frame frame-13">
+<rect x="293" y="594" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="445" y="518" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-P" x="331" y="556"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-B" x="407" y="632"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-p" x="407" y="404"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-R" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-q" x="483" y="328"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-K" x="559" y="708"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-13" style="--dx:-152px;--dy:76px">
+<use href="#piece-N" x="483" y="556"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">7. Nxf3</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">13/17 ply</text>
+</g>
+<g class="frame frame-14">
+<rect x="445" y="290" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="597" y="290" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-P" x="331" y="556"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-B" x="407" y="632"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-p" x="407" y="404"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-R" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-N" x="483" y="556"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-K" x="559" y="708"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-14" style="--dx:-152px;--dy:0px">
+<use href="#piece-q" x="635" y="328"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">7... Qh6</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">14/17 ply</text>
+</g>
+<g class="frame frame-15">
+<rect x="217" y="670" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="597" y="290" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-P" x="331" y="556"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-B" x="407" y="632"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-p" x="407" y="404"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-R" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-N" x="483" y="556"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-K" x="559" y="708"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-15" style="--dx:-380px;--dy:380px">
+<use href="#piece-B" x="635" y="328"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">8. Bxh6</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">15/17 ply</text>
+</g>
+<g class="frame frame-16">
+<rect x="521" y="138" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="597" y="290" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-P" x="331" y="556"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-B" x="407" y="632"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-p" x="407" y="404"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-R" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-N" x="483" y="556"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-K" x="559" y="708"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-16" style="--dx:-76px;--dy:-152px">
+<use href="#piece-n" x="635" y="328"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">8... Nxh6</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">16/17 ply</text>
+</g>
+<g class="frame frame-17">
+<rect x="445" y="518" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="369" y="366" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-P" x="331" y="556"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-B" x="407" y="632"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-R" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-K" x="559" y="708"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-n" x="635" y="328"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-17" style="--dx:76px;--dy:152px">
+<use href="#piece-N" x="407" y="404"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">9. Nxe5</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">17/17 ply</text>
+</g>
+<text x="65" y="784" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">Chess.com · 2026.10.16 · 7200 · replay loops</text>
 </svg>

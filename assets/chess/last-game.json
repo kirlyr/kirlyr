@@ -1,11 +1,11 @@
 {
-  "username": "kirlur (DEMO)",
-  "white": "Demo White",
-  "black": "Demo Black",
-  "result": "*",
-  "date": "DEMO ONLY",
-  "time_control": "",
-  "game_url": "https://www.chess.com/member/kirlur",
+  "username": "kirlur",
+  "white": "kirlur",
+  "black": "essyxx",
+  "result": "1-0",
+  "date": "2026.10.16",
+  "time_control": "7200",
+  "game_url": "https://www.chess.com/game/live/185409906610",
   "player_side": "white",
-  "ply": 6
+  "ply": 17
 }

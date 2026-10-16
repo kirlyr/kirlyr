@@ -15,7 +15,9 @@
 **My latest Chess.com game — animated replay**
 
 <!-- chess-replay:start -->
-[![Animated Chess.com replay](assets/chess/last-game.svg)](https://www.chess.com/member/kirlur)
+[![Animated Chess.com replay](assets/chess/last-game.svg)](https://www.chess.com/game/live/185409906610)
+
+**kirlur vs essyxx** · 1-0 · [View this game on Chess.com](https://www.chess.com/game/live/185409906610)
 <!-- chess-replay:end -->
 
 [Challenge me on Chess.com](https://www.chess.com/member/kirlur)
