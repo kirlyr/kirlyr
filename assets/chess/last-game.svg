@@ -1,0 +1,411 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="738" height="860" viewBox="0 0 738 860" role="img" aria-label="Animated replay of the last Chess.com game by kirlur (DEMO)">
+<title>Last Chess.com game — Demo White vs Demo Black</title>
+<desc>Animated move-by-move chess replay generated from a public Chess.com PGN. Animation loops automatically.</desc>
+<defs>
+<style><![CDATA[
+.frame{opacity:0}.frame-0{opacity:1}
+@keyframes scene-0{0%{opacity:1}15.384615%{opacity:0}100%{opacity:0}}
+.frame-0{animation:scene-0 9.75s steps(1,end) infinite}
+@keyframes scene-1{0%{opacity:0}15.384615%{opacity:1}27.179487%{opacity:0}100%{opacity:0}}
+.frame-1{animation:scene-1 9.75s steps(1,end) infinite}
+@keyframes slide-1{0%,15.384615%{transform:translate(var(--dx),var(--dy))}20%,100%{transform:translate(0,0)}}
+.moving-1{animation:slide-1 9.75s linear infinite}
+@keyframes scene-2{0%{opacity:0}27.179487%{opacity:1}38.974359%{opacity:0}100%{opacity:0}}
+.frame-2{animation:scene-2 9.75s steps(1,end) infinite}
+@keyframes slide-2{0%,27.179487%{transform:translate(var(--dx),var(--dy))}31.794872%,100%{transform:translate(0,0)}}
+.moving-2{animation:slide-2 9.75s linear infinite}
+@keyframes scene-3{0%{opacity:0}38.974359%{opacity:1}50.769231%{opacity:0}100%{opacity:0}}
+.frame-3{animation:scene-3 9.75s steps(1,end) infinite}
+@keyframes slide-3{0%,38.974359%{transform:translate(var(--dx),var(--dy))}43.589744%,100%{transform:translate(0,0)}}
+.moving-3{animation:slide-3 9.75s linear infinite}
+@keyframes scene-4{0%{opacity:0}50.769231%{opacity:1}62.564103%{opacity:0}100%{opacity:0}}
+.frame-4{animation:scene-4 9.75s steps(1,end) infinite}
+@keyframes slide-4{0%,50.769231%{transform:translate(var(--dx),var(--dy))}55.384615%,100%{transform:translate(0,0)}}
+.moving-4{animation:slide-4 9.75s linear infinite}
+@keyframes scene-5{0%{opacity:0}62.564103%{opacity:1}74.358974%{opacity:0}100%{opacity:0}}
+.frame-5{animation:scene-5 9.75s steps(1,end) infinite}
+@keyframes slide-5{0%,62.564103%{transform:translate(var(--dx),var(--dy))}67.179487%,100%{transform:translate(0,0)}}
+.moving-5{animation:slide-5 9.75s linear infinite}
+@keyframes scene-6{0%{opacity:0}74.358974%{opacity:1}100%{opacity:0}100%{opacity:0}}
+.frame-6{animation:scene-6 9.75s steps(1,end) infinite}
+@keyframes slide-6{0%,74.358974%{transform:translate(var(--dx),var(--dy))}78.974359%,100%{transform:translate(0,0)}}
+.moving-6{animation:slide-6 9.75s linear infinite}
+]]></style>
+<g id="piece-K"><text text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans,Segoe UI Symbol,Arial Unicode MS,sans-serif" font-size="61" font-weight="bold" fill="#ffffff" stroke="#30363d" stroke-width="1.5" paint-order="stroke">♔</text></g>
+<g id="piece-Q"><text text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans,Segoe UI Symbol,Arial Unicode MS,sans-serif" font-size="61" font-weight="bold" fill="#ffffff" stroke="#30363d" stroke-width="1.5" paint-order="stroke">♕</text></g>
+<g id="piece-R"><text text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans,Segoe UI Symbol,Arial Unicode MS,sans-serif" font-size="61" font-weight="bold" fill="#ffffff" stroke="#30363d" stroke-width="1.5" paint-order="stroke">♖</text></g>
+<g id="piece-B"><text text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans,Segoe UI Symbol,Arial Unicode MS,sans-serif" font-size="61" font-weight="bold" fill="#ffffff" stroke="#30363d" stroke-width="1.5" paint-order="stroke">♗</text></g>
+<g id="piece-N"><text text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans,Segoe UI Symbol,Arial Unicode MS,sans-serif" font-size="61" font-weight="bold" fill="#ffffff" stroke="#30363d" stroke-width="1.5" paint-order="stroke">♘</text></g>
+<g id="piece-P"><text text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans,Segoe UI Symbol,Arial Unicode MS,sans-serif" font-size="61" font-weight="bold" fill="#ffffff" stroke="#30363d" stroke-width="1.5" paint-order="stroke">♙</text></g>
+<g id="piece-k"><text text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans,Segoe UI Symbol,Arial Unicode MS,sans-serif" font-size="61" font-weight="bold" fill="#20252c" stroke="#f0f6fc" stroke-width="1.5" paint-order="stroke">♚</text></g>
+<g id="piece-q"><text text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans,Segoe UI Symbol,Arial Unicode MS,sans-serif" font-size="61" font-weight="bold" fill="#20252c" stroke="#f0f6fc" stroke-width="1.5" paint-order="stroke">♛</text></g>
+<g id="piece-r"><text text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans,Segoe UI Symbol,Arial Unicode MS,sans-serif" font-size="61" font-weight="bold" fill="#20252c" stroke="#f0f6fc" stroke-width="1.5" paint-order="stroke">♜</text></g>
+<g id="piece-b"><text text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans,Segoe UI Symbol,Arial Unicode MS,sans-serif" font-size="61" font-weight="bold" fill="#20252c" stroke="#f0f6fc" stroke-width="1.5" paint-order="stroke">♝</text></g>
+<g id="piece-n"><text text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans,Segoe UI Symbol,Arial Unicode MS,sans-serif" font-size="61" font-weight="bold" fill="#20252c" stroke="#f0f6fc" stroke-width="1.5" paint-order="stroke">♞</text></g>
+<g id="piece-p"><text text-anchor="middle" dominant-baseline="central" font-family="DejaVu Sans,Segoe UI Symbol,Arial Unicode MS,sans-serif" font-size="61" font-weight="bold" fill="#20252c" stroke="#f0f6fc" stroke-width="1.5" paint-order="stroke">♟</text></g>
+</defs>
+<rect width="738" height="860" rx="22" fill="#0d1117"/>
+<rect x="23" y="22" width="692" height="815" rx="17" fill="#161b22" stroke="#30363d"/>
+<text x="65" y="74" fill="#f0f6fc" font-size="28" font-weight="bold" font-family="Arial,sans-serif">LAST GAME REPLAY</text>
+<text x="65" y="107" fill="#8b949e" font-size="17" font-family="Arial,sans-serif">Demo White  vs  Demo Black</text>
+<rect x="570" y="51" width="100" height="38" rx="18" fill="#8b949e" opacity="0.17"/>
+<text x="620" y="77" text-anchor="middle" fill="#8b949e" font-size="18" font-weight="bold" font-family="Arial,sans-serif">GAME</text>
+<rect x="65" y="138" width="608" height="608" rx="3" fill="#8b949e"/>
+<rect x="65" y="138" width="76" height="76" fill="#7796aa"/>
+<rect x="141" y="138" width="76" height="76" fill="#253546"/>
+<rect x="217" y="138" width="76" height="76" fill="#7796aa"/>
+<rect x="293" y="138" width="76" height="76" fill="#253546"/>
+<rect x="369" y="138" width="76" height="76" fill="#7796aa"/>
+<rect x="445" y="138" width="76" height="76" fill="#253546"/>
+<rect x="521" y="138" width="76" height="76" fill="#7796aa"/>
+<rect x="597" y="138" width="76" height="76" fill="#253546"/>
+<rect x="65" y="214" width="76" height="76" fill="#253546"/>
+<rect x="141" y="214" width="76" height="76" fill="#7796aa"/>
+<rect x="217" y="214" width="76" height="76" fill="#253546"/>
+<rect x="293" y="214" width="76" height="76" fill="#7796aa"/>
+<rect x="369" y="214" width="76" height="76" fill="#253546"/>
+<rect x="445" y="214" width="76" height="76" fill="#7796aa"/>
+<rect x="521" y="214" width="76" height="76" fill="#253546"/>
+<rect x="597" y="214" width="76" height="76" fill="#7796aa"/>
+<rect x="65" y="290" width="76" height="76" fill="#7796aa"/>
+<rect x="141" y="290" width="76" height="76" fill="#253546"/>
+<rect x="217" y="290" width="76" height="76" fill="#7796aa"/>
+<rect x="293" y="290" width="76" height="76" fill="#253546"/>
+<rect x="369" y="290" width="76" height="76" fill="#7796aa"/>
+<rect x="445" y="290" width="76" height="76" fill="#253546"/>
+<rect x="521" y="290" width="76" height="76" fill="#7796aa"/>
+<rect x="597" y="290" width="76" height="76" fill="#253546"/>
+<rect x="65" y="366" width="76" height="76" fill="#253546"/>
+<rect x="141" y="366" width="76" height="76" fill="#7796aa"/>
+<rect x="217" y="366" width="76" height="76" fill="#253546"/>
+<rect x="293" y="366" width="76" height="76" fill="#7796aa"/>
+<rect x="369" y="366" width="76" height="76" fill="#253546"/>
+<rect x="445" y="366" width="76" height="76" fill="#7796aa"/>
+<rect x="521" y="366" width="76" height="76" fill="#253546"/>
+<rect x="597" y="366" width="76" height="76" fill="#7796aa"/>
+<rect x="65" y="442" width="76" height="76" fill="#7796aa"/>
+<rect x="141" y="442" width="76" height="76" fill="#253546"/>
+<rect x="217" y="442" width="76" height="76" fill="#7796aa"/>
+<rect x="293" y="442" width="76" height="76" fill="#253546"/>
+<rect x="369" y="442" width="76" height="76" fill="#7796aa"/>
+<rect x="445" y="442" width="76" height="76" fill="#253546"/>
+<rect x="521" y="442" width="76" height="76" fill="#7796aa"/>
+<rect x="597" y="442" width="76" height="76" fill="#253546"/>
+<rect x="65" y="518" width="76" height="76" fill="#253546"/>
+<rect x="141" y="518" width="76" height="76" fill="#7796aa"/>
+<rect x="217" y="518" width="76" height="76" fill="#253546"/>
+<rect x="293" y="518" width="76" height="76" fill="#7796aa"/>
+<rect x="369" y="518" width="76" height="76" fill="#253546"/>
+<rect x="445" y="518" width="76" height="76" fill="#7796aa"/>
+<rect x="521" y="518" width="76" height="76" fill="#253546"/>
+<rect x="597" y="518" width="76" height="76" fill="#7796aa"/>
+<rect x="65" y="594" width="76" height="76" fill="#7796aa"/>
+<rect x="141" y="594" width="76" height="76" fill="#253546"/>
+<rect x="217" y="594" width="76" height="76" fill="#7796aa"/>
+<rect x="293" y="594" width="76" height="76" fill="#253546"/>
+<rect x="369" y="594" width="76" height="76" fill="#7796aa"/>
+<rect x="445" y="594" width="76" height="76" fill="#253546"/>
+<rect x="521" y="594" width="76" height="76" fill="#7796aa"/>
+<rect x="597" y="594" width="76" height="76" fill="#253546"/>
+<rect x="65" y="670" width="76" height="76" fill="#253546"/>
+<rect x="141" y="670" width="76" height="76" fill="#7796aa"/>
+<rect x="217" y="670" width="76" height="76" fill="#253546"/>
+<rect x="293" y="670" width="76" height="76" fill="#7796aa"/>
+<rect x="369" y="670" width="76" height="76" fill="#253546"/>
+<rect x="445" y="670" width="76" height="76" fill="#7796aa"/>
+<rect x="521" y="670" width="76" height="76" fill="#253546"/>
+<rect x="597" y="670" width="76" height="76" fill="#7796aa"/>
+<text x="103" y="769" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">a</text>
+<text x="179" y="769" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">b</text>
+<text x="255" y="769" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">c</text>
+<text x="331" y="769" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">d</text>
+<text x="407" y="769" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">e</text>
+<text x="483" y="769" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">f</text>
+<text x="559" y="769" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">g</text>
+<text x="635" y="769" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">h</text>
+<text x="47" y="181" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">8</text>
+<text x="47" y="257" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">7</text>
+<text x="47" y="333" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">6</text>
+<text x="47" y="409" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">5</text>
+<text x="47" y="485" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">4</text>
+<text x="47" y="561" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">3</text>
+<text x="47" y="637" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">2</text>
+<text x="47" y="713" text-anchor="middle" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">1</text>
+<g class="frame frame-0">
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-N" x="179" y="708"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-n" x="179" y="176"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-P" x="331" y="632"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-q" x="331" y="176"/>
+<use href="#piece-K" x="407" y="708"/>
+<use href="#piece-P" x="407" y="632"/>
+<use href="#piece-p" x="407" y="252"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-B" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-N" x="559" y="708"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-R" x="635" y="708"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">Initial position</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">0/6 ply</text>
+</g>
+<g class="frame frame-1">
+<rect x="369" y="594" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="369" y="442" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-N" x="179" y="708"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-n" x="179" y="176"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-P" x="331" y="632"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-q" x="331" y="176"/>
+<use href="#piece-K" x="407" y="708"/>
+<use href="#piece-p" x="407" y="252"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-B" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-N" x="559" y="708"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-R" x="635" y="708"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-1" style="--dx:0px;--dy:152px">
+<use href="#piece-P" x="407" y="480"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">1. e4</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">1/6 ply</text>
+</g>
+<g class="frame frame-2">
+<rect x="369" y="214" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="369" y="366" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-N" x="179" y="708"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-n" x="179" y="176"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-P" x="331" y="632"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-q" x="331" y="176"/>
+<use href="#piece-K" x="407" y="708"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-B" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-N" x="559" y="708"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-R" x="635" y="708"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-2" style="--dx:0px;--dy:-152px">
+<use href="#piece-p" x="407" y="404"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">1... e5</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">2/6 ply</text>
+</g>
+<g class="frame frame-3">
+<rect x="521" y="670" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="445" y="518" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-N" x="179" y="708"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-n" x="179" y="176"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-P" x="331" y="632"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-q" x="331" y="176"/>
+<use href="#piece-K" x="407" y="708"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-p" x="407" y="404"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-B" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-R" x="635" y="708"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-3" style="--dx:76px;--dy:152px">
+<use href="#piece-N" x="483" y="556"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">2. Nf3</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">3/6 ply</text>
+</g>
+<g class="frame frame-4">
+<rect x="141" y="138" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="217" y="290" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-N" x="179" y="708"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-P" x="331" y="632"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-q" x="331" y="176"/>
+<use href="#piece-K" x="407" y="708"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-p" x="407" y="404"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-B" x="483" y="708"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-N" x="483" y="556"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-R" x="635" y="708"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-4" style="--dx:-76px;--dy:-152px">
+<use href="#piece-n" x="255" y="328"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">2... Nc6</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">4/6 ply</text>
+</g>
+<g class="frame frame-5">
+<rect x="445" y="670" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="217" y="442" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-N" x="179" y="708"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-n" x="255" y="328"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-P" x="331" y="632"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-q" x="331" y="176"/>
+<use href="#piece-K" x="407" y="708"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-p" x="407" y="404"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-N" x="483" y="556"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-n" x="559" y="176"/>
+<use href="#piece-R" x="635" y="708"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-5" style="--dx:228px;--dy:228px">
+<use href="#piece-B" x="255" y="480"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">3. Bc4</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">5/6 ply</text>
+</g>
+<g class="frame frame-6">
+<rect x="521" y="138" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<rect x="445" y="290" width="76" height="76" fill="#e3b341" opacity="0.30"/>
+<use href="#piece-R" x="103" y="708"/>
+<use href="#piece-P" x="103" y="632"/>
+<use href="#piece-p" x="103" y="252"/>
+<use href="#piece-r" x="103" y="176"/>
+<use href="#piece-N" x="179" y="708"/>
+<use href="#piece-P" x="179" y="632"/>
+<use href="#piece-p" x="179" y="252"/>
+<use href="#piece-B" x="255" y="708"/>
+<use href="#piece-P" x="255" y="632"/>
+<use href="#piece-B" x="255" y="480"/>
+<use href="#piece-n" x="255" y="328"/>
+<use href="#piece-p" x="255" y="252"/>
+<use href="#piece-b" x="255" y="176"/>
+<use href="#piece-Q" x="331" y="708"/>
+<use href="#piece-P" x="331" y="632"/>
+<use href="#piece-p" x="331" y="252"/>
+<use href="#piece-q" x="331" y="176"/>
+<use href="#piece-K" x="407" y="708"/>
+<use href="#piece-P" x="407" y="480"/>
+<use href="#piece-p" x="407" y="404"/>
+<use href="#piece-k" x="407" y="176"/>
+<use href="#piece-P" x="483" y="632"/>
+<use href="#piece-N" x="483" y="556"/>
+<use href="#piece-p" x="483" y="252"/>
+<use href="#piece-b" x="483" y="176"/>
+<use href="#piece-P" x="559" y="632"/>
+<use href="#piece-p" x="559" y="252"/>
+<use href="#piece-R" x="635" y="708"/>
+<use href="#piece-P" x="635" y="632"/>
+<use href="#piece-p" x="635" y="252"/>
+<use href="#piece-r" x="635" y="176"/>
+<g class="moving moving-6" style="--dx:76px;--dy:-152px">
+<use href="#piece-n" x="483" y="328"/>
+</g>
+<text x="65" y="815" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">3... Nf6</text>
+<text x="670" y="815" text-anchor="end" fill="#8b949e" font-size="17" font-family="Arial, sans-serif">6/6 ply</text>
+</g>
+<text x="65" y="784" fill="#8b949e" font-size="15" font-family="Arial,sans-serif">Chess.com · DEMO ONLY ·  · replay loops</text>
+</svg>
