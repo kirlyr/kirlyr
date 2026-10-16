@@ -8,6 +8,16 @@
 </p> -->
 
 
+## ♟️ when i'm not coding...
 
-## Repo Activity
-![Alt](https://repobeats.axiom.co/api/embed/643ac646e6e740a9d0a3a58ab8c67081c21b631e.svg "Repobeats analytics image")
+> probably blundering my queen.
+
+**My latest Chess.com game — animated replay**
+
+<!-- chess-replay:start -->
+[![Animated Chess.com replay](assets/chess/last-game.svg)](https://www.chess.com/member/kirlur)
+<!-- chess-replay:end -->
+
+[Challenge me on Chess.com](https://www.chess.com/member/kirlur)
+
+*My latest completed game, replayed automatically.*
