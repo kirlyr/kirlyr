@@ -4,8 +4,8 @@
   "black": "essyxx",
   "result": "1-0",
   "date": "2026.10.16",
-  "time_control": "7200",
-  "game_url": "https://www.chess.com/game/live/185409906610",
+  "time_control": "1/86400",
+  "game_url": "https://www.chess.com/game/daily/1045090630",
   "player_side": "white",
-  "ply": 17
+  "ply": 3
 }
