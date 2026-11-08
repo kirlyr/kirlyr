@@ -39,7 +39,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: top-langs
-          options: username=kirlyr&hide_border=true&disable_animations=true&bg_color=00000000&title_color=4a32a6&text_color=1f2328&icon_color=1257ab&card_width=400&layout=compact&size_weight=0&count_weight=1&langs_count=6&hide=html%2Ccss%2Cmakefile%2Ccmake%2Cjupyter+notebook%2Ctex%2Cshell%2Cdockerfile&custom_title=Languages+by+repo+count
+          options: username=kirlyr&hide_border=true&disable_animations=true&bg_color=00000000&title_color=4a32a6&text_color=1f2328&icon_color=1257ab&card_width=400&layout=compact&size_weight=0&count_weight=1&langs_count=6&hide=html%2Ccss%2Cmakefile%2Ccmake%2Cjupyter+notebook%2Ctex%2Cshell%2Cdockerfile%2Cpowershell&custom_title=Languages+by+repo+count
           path: cards/languages-light.svg
           core_version: 2.2.0
           fail_on_error: "true"
@@ -47,7 +47,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: top-langs
-          options: username=kirlyr&hide_border=true&disable_animations=true&bg_color=00000000&title_color=a98ff7&text_color=c9d1d9&icon_color=7ccdf2&card_width=400&layout=compact&size_weight=0&count_weight=1&langs_count=6&hide=html%2Ccss%2Cmakefile%2Ccmake%2Cjupyter+notebook%2Ctex%2Cshell%2Cdockerfile&custom_title=Languages+by+repo+count
+          options: username=kirlyr&hide_border=true&disable_animations=true&bg_color=00000000&title_color=a98ff7&text_color=c9d1d9&icon_color=7ccdf2&card_width=400&layout=compact&size_weight=0&count_weight=1&langs_count=6&hide=html%2Ccss%2Cmakefile%2Ccmake%2Cjupyter+notebook%2Ctex%2Cshell%2Cdockerfile%2Cpowershell&custom_title=Languages+by+repo+count
           path: cards/languages-dark.svg
           core_version: 2.2.0
           fail_on_error: "true"
