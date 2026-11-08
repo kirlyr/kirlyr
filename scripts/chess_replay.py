@@ -300,11 +300,12 @@ def replace_readme_block(readme: Path, meta: dict, img_path: str = 'assets/chess
     game_url = meta['game_url']
     if not game_url.startswith('https://www.chess.com/'):
         game_url = f'https://www.chess.com/member/{meta["username"]}'
+    # HTML (no blank lines) so the board can float left beside the koi in the README.
     block = '\n'.join([
         begin,
-        f'[![Animated Chess.com replay]({img_path})]({game_url})',
-        '',
-        f'**{meta["white"]} vs {meta["black"]}** · {meta["result"]} · [View this game on Chess.com]({game_url})',
+        f'<a href="{game_url}"><img src="{img_path}" align="left" width="54%" alt="Animated Chess.com replay"></a>',
+        '<br clear="all">',
+        f'<b>{escape(meta["white"])} vs {escape(meta["black"])}</b> · {escape(meta["result"])} · <a href="{game_url}">View this game on Chess.com</a>',
         end,
     ])
     i = original.index(begin)

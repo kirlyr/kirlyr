@@ -12,14 +12,13 @@
 
 > probably blundering my queen.
 
-**My latest Chess.com game — animated replay**
-
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/koi.gif" align="right" width="42%" alt="My koi, redrawn every night from my GitHub activity"></a>
 <!-- chess-replay:start -->
-[![Animated Chess.com replay](assets/chess/last-game.svg)](https://www.chess.com/game/daily/1045090630)
-
-**kirlur vs essyxx** · 1-0 · [View this game on Chess.com](https://www.chess.com/game/daily/1045090630)
+<a href="https://www.chess.com/game/daily/1045090630"><img src="assets/chess/last-game.svg" align="left" width="54%" alt="Animated Chess.com replay"></a>
+<br clear="all">
+<b>kirlur vs essyxx</b> · 1-0 · <a href="https://www.chess.com/game/daily/1045090630">View this game on Chess.com</a>
 <!-- chess-replay:end -->
 
 [Challenge me on Chess.com](https://www.chess.com/member/kirlur)
 
-*My latest completed game, replayed automatically.*
+*chess replay and koi both update automatically. the koi grows with my github activity.*
